@@ -1,0 +1,8 @@
+[7008] 16 Oct 08:38:40.639 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6379, pid 7008 ready to start.
+[7008] 16 Oct 08:38:40.639 # Server started, Redis version 3.2.100
+[7008] 16 Oct 08:38:40.639 * DB loaded from disk: 0.000 seconds
+[7008] 16 Oct 08:38:40.639 * The server is now ready to accept connections on port 6379
+[7008] 16 Oct 08:38:48.410 # User requested shutdown...
+[7008] 16 Oct 08:38:48.410 * Saving the final RDB snapshot before exiting.
+[7008] 16 Oct 08:38:48.410 * DB saved on disk
+[7008] 16 Oct 08:38:48.410 # Redis is now ready to exit, bye bye...
